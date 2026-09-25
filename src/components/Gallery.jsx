@@ -1,3 +1,7 @@
+// componet has to be in Capital letter so it can be isolated from html tags
+// Example: <Profile /> → React component
+// <img /> → HTML element
+
 function Profile () {
     return (
         <img
